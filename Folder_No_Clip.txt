@@ -1,0 +1,4 @@
+The Following Folder in the train set is empty and doesn't contain a clip:
+2100552061
+
+Keep that in mind when using the extractFrames skript, as it will crash.
